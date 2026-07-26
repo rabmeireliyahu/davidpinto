@@ -553,5 +553,23 @@
       <itunes:duration>00:47:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Comment être connecté</title>
+      <description>Comment être connecté</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Comment%20%C3%AAtre%20connect%C3%A9.mp3" length="5330482" type="audio/mpeg"/>
+      <guid isPermaLink="false">Comment être connecté.mp3</guid>
+      <pubDate>Sat, 25 Jul 2026 22:30:38 -0000</pubDate>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le miracle à la frontière américaine</title>
+      <description>Le miracle à la frontière américaine</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20miracle%20%C3%A0%20la%20fronti%C3%A8re%20am%C3%A9ricaine.mp3" length="6910658" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le miracle à la frontière américaine.mp3</guid>
+      <pubDate>Sat, 25 Jul 2026 22:30:58 -0000</pubDate>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
