@@ -589,5 +589,14 @@
       <itunes:duration>00:47:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Comment commencer le matin</title>
+      <description>Comment commencer le matin</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Comment%20commencer%20le%20matin.mp3" length="5625397" type="audio/mpeg"/>
+      <guid isPermaLink="false">Comment commencer le matin.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 10:11:14 -0000</pubDate>
+      <itunes:duration>00:05:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
