@@ -598,5 +598,32 @@
       <itunes:duration>00:05:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Tou BeAv</title>
+      <description>Tou BeAv</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Tou%20BeAv.mp3" length="6681379" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tou BeAv.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:12:28 -0000</pubDate>
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tou BeAv ： chaque couple reconstruit le Beth Hamikdach !</title>
+      <description>Tou BeAv ： chaque couple reconstruit le Beth Hamikdach !</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Tou%20BeAv%20%EF%BC%9A%20chaque%20couple%20reconstruit%20le%20Beth%20Hamikdach%20%21.mp3" length="6158395" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tou BeAv ： chaque couple reconstruit le Beth Hamikdach !.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:13:05 -0000</pubDate>
+      <itunes:duration>00:06:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mon père face au lion ： une scène que je n’oublierai jamais</title>
+      <description>Mon père face au lion ： une scène que je n’oublierai jamais</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Mon%20p%C3%A8re%20face%20au%20lion%20%EF%BC%9A%20une%20sc%C3%A8ne%20que%20je%20n%E2%80%99oublierai%20jamais.mp3" length="6279654" type="audio/mpeg"/>
+      <guid isPermaLink="false">Mon père face au lion ： une scène que je n’oublierai jamais.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:13:32 -0000</pubDate>
+      <itunes:duration>00:06:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
