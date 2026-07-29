@@ -625,5 +625,14 @@
       <itunes:duration>00:06:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau</title>
+      <description>Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Deux%20jours%20de%20joie%20et%20d%E2%80%99unit%C3%A9%2C%20Tou%20beAv%20et%20Kippour%2C%20temps%20de%20renouveau.mp3" length="47704432" type="audio/mpeg"/>
+      <guid isPermaLink="false">Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 19:42:09 -0000</pubDate>
+      <itunes:duration>00:49:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
