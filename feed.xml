@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>האדמו"ר רבי דוד חנניה פינטו</title>
-    <description>שיעורים מהאדמו"ר רבי דוד חנניה פינטו שליט"א - אורות חיים ומשה - אוצר התורה</description>
+    <description>Chiourim de Torah en français avec le Rav David Hanania Pinto Chlita. Paracha de la semaine, emouna, moussar, fêtes juives et histoires de tsadikim - Orot Haim ou Moché - Otzar HaTorah.</description>
+    <itunes:summary>Chiourim de Torah en français avec le Rav David Hanania Pinto Chlita. Paracha de la semaine, emouna, moussar, fêtes juives et histoires de tsadikim - Orot Haim ou Moché - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/davidpinto</link>
     <language>he</language>
     <itunes:author>רבי דוד חנניה פינטו שליט"א</itunes:author>
