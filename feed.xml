@@ -3,7 +3,6 @@
   <channel>
     <title>האדמו"ר רבי דוד חנניה פינטו</title>
     <description>Chiourim de Torah en français avec le Rav David Hanania Pinto Chlita. Paracha de la semaine, emouna, moussar, fêtes juives et histoires de tsadikim - Orot Haim ou Moché - Otzar HaTorah.</description>
-    <itunes:summary>Chiourim de Torah en français avec le Rav David Hanania Pinto Chlita. Paracha de la semaine, emouna, moussar, fêtes juives et histoires de tsadikim - Orot Haim ou Moché - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/davidpinto</link>
     <language>he</language>
     <itunes:author>רבי דוד חנניה פינטו שליט"א</itunes:author>
@@ -629,10 +628,19 @@
     <item>
       <title>Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau</title>
       <description>Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Deux%20jours%20de%20joie%20et%20d%E2%80%99unit%C3%A9%2C%20Tou%20beAv%20et%20Kippour%2C%20temps%20de%20renouveau.mp3" length="47704432" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Deux%20jours%20de%20joie%20et%20d%E2%80%99unit%C3%A9%2C%20Tou%20beAv%20et%20Kippour%2C%20temps%20de%20renouveau.mp3" length="47703462" type="audio/mpeg"/>
       <guid isPermaLink="false">Deux jours de joie et d’unité, Tou beAv et Kippour, temps de renouveau.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 19:42:09 -0000</pubDate>
       <itunes:duration>00:49:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les lions qui ont protégé les Tsaddikim</title>
+      <description>Les lions qui ont protégé les Tsaddikim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Les%20lions%20qui%20ont%20prot%C3%A9g%C3%A9%20les%20Tsaddikim.mp3" length="6718660" type="audio/mpeg"/>
+      <guid isPermaLink="false">Les lions qui ont protégé les Tsaddikim.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 09:56:19 -0000</pubDate>
+      <itunes:duration>00:06:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
