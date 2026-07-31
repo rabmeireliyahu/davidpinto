@@ -643,5 +643,14 @@
       <itunes:duration>00:06:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>L'histoire de la canne du Tsaddik</title>
+      <description>L'histoire de la canne du Tsaddik</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/L%27histoire%20de%20la%20canne%20du%20Tsaddik.mp3" length="5472956" type="audio/mpeg"/>
+      <guid isPermaLink="false">L'histoire de la canne du Tsaddik.mp3</guid>
+      <pubDate>Fri, 31 Jul 2026 09:51:56 -0000</pubDate>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
