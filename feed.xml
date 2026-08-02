@@ -652,5 +652,14 @@
       <itunes:duration>00:05:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le sac trouvé près de l'autobus</title>
+      <description>Le sac trouvé près de l'autobus</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20sac%20trouv%C3%A9%20pr%C3%A8s%20de%20l%27autobus.mp3" length="7327292" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le sac trouvé près de l'autobus.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 12:06:48 -0000</pubDate>
+      <itunes:duration>00:07:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
