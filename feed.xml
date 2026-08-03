@@ -661,5 +661,23 @@
       <itunes:duration>00:07:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Les Tsaddikim n'ont pas de limites</title>
+      <description>Les Tsaddikim n'ont pas de limites</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Les%20Tsaddikim%20n%27ont%20pas%20de%20limites.mp3" length="6997053" type="audio/mpeg"/>
+      <guid isPermaLink="false">Les Tsaddikim n'ont pas de limites.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 10:26:54 -0000</pubDate>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le pouvoir de la parole ： elle peut sauver… ou détruire !</title>
+      <description>Le pouvoir de la parole ： elle peut sauver… ou détruire !</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20pouvoir%20de%20la%20parole%20%EF%BC%9A%20elle%20peut%20sauver%E2%80%A6%20ou%20d%C3%A9truire%20%21.mp3" length="6456791" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le pouvoir de la parole ： elle peut sauver… ou détruire !.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 10:27:35 -0000</pubDate>
+      <itunes:duration>00:06:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
