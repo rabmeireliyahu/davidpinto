@@ -1543,5 +1543,14 @@
       <itunes:duration>00:08:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>N’oublie pas Je suis ton Patron</title>
+      <description>N’oublie pas Je suis ton Patron</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/N%E2%80%99oublie%20pas%20Je%20suis%20ton%20Patron.mp3" length="38341149" type="audio/mpeg"/>
+      <guid isPermaLink="false">N’oublie pas Je suis ton Patron.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:36 -0000</pubDate>
+      <itunes:duration>00:45:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
