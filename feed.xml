@@ -1570,5 +1570,14 @@
       <itunes:duration>00:45:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le péché d’Adam, qui n’a pas immédiatement reconnu sa faute</title>
+      <description>Le péché d’Adam, qui n’a pas immédiatement reconnu sa faute</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20p%C3%A9ch%C3%A9%20d%E2%80%99Adam%2C%20qui%20n%E2%80%99a%20pas%20imm%C3%A9diatement%20reconnu%20sa%20faute.mp3" length="36588885" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le péché d’Adam, qui n’a pas immédiatement reconnu sa faute.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 09:42:22 -0000</pubDate>
+      <itunes:duration>00:34:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
