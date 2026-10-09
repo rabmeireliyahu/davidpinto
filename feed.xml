@@ -1588,5 +1588,14 @@
       <itunes:duration>00:06:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ne laisse pas tes soucis te voler ta vie</title>
+      <description>Ne laisse pas tes soucis te voler ta vie</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Ne%20laisse%20pas%20tes%20soucis%20te%20voler%20ta%20vie.mp3" length="5008629" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ne laisse pas tes soucis te voler ta vie.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 07:16:34 -0000</pubDate>
+      <itunes:duration>00:06:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
