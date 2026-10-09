@@ -1579,5 +1579,14 @@
       <itunes:duration>00:34:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>L’importance du Kadich</title>
+      <description>L’importance du Kadich</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/L%E2%80%99importance%20du%20Kadich.mp3" length="5340021" type="audio/mpeg"/>
+      <guid isPermaLink="false">L’importance du Kadich.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 07:16:08 -0000</pubDate>
+      <itunes:duration>00:06:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
