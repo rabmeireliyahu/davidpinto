@@ -1615,5 +1615,14 @@
       <itunes:duration>00:06:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le doute</title>
+      <description>Le doute</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20doute.mp3" length="3973005" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le doute.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 08:18:36 -0000</pubDate>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
