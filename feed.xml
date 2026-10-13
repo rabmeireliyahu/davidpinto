@@ -1633,5 +1633,14 @@
       <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Aspirez à grandir</title>
+      <description>Aspirez à grandir</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Aspirez%20%C3%A0%20grandir.mp3" length="3445557" type="audio/mpeg"/>
+      <guid isPermaLink="false">Aspirez à grandir.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 07:20:21 -0000</pubDate>
+      <itunes:duration>00:05:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
