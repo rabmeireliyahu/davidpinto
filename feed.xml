@@ -1642,5 +1642,14 @@
       <itunes:duration>00:05:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Une Ségoula pour le mariage</title>
+      <description>Une Ségoula pour le mariage</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Une%20S%C3%A9goula%20pour%20le%20mariage.mp3" length="4062189" type="audio/mpeg"/>
+      <guid isPermaLink="false">Une Ségoula pour le mariage.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 05:29:49 -0000</pubDate>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
