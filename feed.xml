@@ -1669,5 +1669,14 @@
       <itunes:duration>00:51:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Hachem est présent partout</title>
+      <description>Hachem est présent partout</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Hachem%20est%20pr%C3%A9sent%20partout.mp3" length="4974157" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hachem est présent partout.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 05:30:15 -0000</pubDate>
+      <itunes:duration>00:06:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
