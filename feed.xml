@@ -1651,5 +1651,14 @@
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Hashem, notre force contre le mal</title>
+      <description>Hashem, notre force contre le mal</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Hashem%2C%20notre%20force%20contre%20le%20mal.mp3" length="32044845" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hashem, notre force contre le mal.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 20:00:59 -0000</pubDate>
+      <itunes:duration>00:52:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
