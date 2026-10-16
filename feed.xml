@@ -1678,5 +1678,14 @@
       <itunes:duration>00:06:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Pourquoi Noa’h n’a pas t'il sauvé personne ？</title>
+      <description>Pourquoi Noa’h n’a pas t'il sauvé personne ？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Pourquoi%20Noa%E2%80%99h%20n%E2%80%99a%20pas%20t%27il%20sauv%C3%A9%20personne%20%EF%BC%9F.mp3" length="5016047" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pourquoi Noa’h n’a pas t'il sauvé personne ？.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:35:48 -0000</pubDate>
+      <itunes:duration>00:06:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
