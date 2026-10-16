@@ -1687,5 +1687,14 @@
       <itunes:duration>00:06:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Qu’a t’il fait Noah dans la Téva ？</title>
+      <description>Qu’a t’il fait Noah dans la Téva ？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Qu%E2%80%99a%20t%E2%80%99il%20fait%20Noah%20dans%20la%20T%C3%A9va%20%EF%BC%9F.mp3" length="4784541" type="audio/mpeg"/>
+      <guid isPermaLink="false">Qu’a t’il fait Noah dans la Téva ？.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 06:51:37 -0000</pubDate>
+      <itunes:duration>00:06:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
