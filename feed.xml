@@ -1705,5 +1705,14 @@
       <itunes:duration>00:05:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Elle a vu ce que nous n’avions pas vu</title>
+      <description>Elle a vu ce que nous n’avions pas vu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Elle%20a%20vu%20ce%20que%20nous%20n%E2%80%99avions%20pas%20vu.mp3" length="5899845" type="audio/mpeg"/>
+      <guid isPermaLink="false">Elle a vu ce que nous n’avions pas vu.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 07:04:57 -0000</pubDate>
+      <itunes:duration>00:06:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
