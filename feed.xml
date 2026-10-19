@@ -1723,5 +1723,14 @@
       <itunes:duration>00:06:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Soupçonner ou faire confiance ？</title>
+      <description>Soupçonner ou faire confiance ？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Soup%C3%A7onner%20ou%20faire%20confiance%20%EF%BC%9F.mp3" length="7109901" type="audio/mpeg"/>
+      <guid isPermaLink="false">Soupçonner ou faire confiance ？.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 05:05:44 -0000</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
