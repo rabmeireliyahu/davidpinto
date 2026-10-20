@@ -1750,5 +1750,14 @@
       <itunes:duration>00:55:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Pensées négatives et dépression</title>
+      <description>Pensées négatives et dépression</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Pens%C3%A9es%20n%C3%A9gatives%20et%20d%C3%A9pression.mp3" length="5153109" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pensées négatives et dépression.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 05:50:02 -0000</pubDate>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
