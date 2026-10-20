@@ -1741,5 +1741,14 @@
       <itunes:duration>00:04:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Croire avec une conviction de 100% en Hachem</title>
+      <description>Croire avec une conviction de 100% en Hachem</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Croire%20avec%20une%20conviction%20de%20100%25%20en%20Hachem.mp3" length="33033837" type="audio/mpeg"/>
+      <guid isPermaLink="false">Croire avec une conviction de 100% en Hachem.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 05:48:26 -0000</pubDate>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
