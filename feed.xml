@@ -1768,5 +1768,14 @@
       <itunes:duration>01:14:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Chacun a le droit de se rapprocher d’Hachem</title>
+      <description>Chacun a le droit de se rapprocher d’Hachem</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Chacun%20a%20le%20droit%20de%20se%20rapprocher%20d%E2%80%99Hachem.mp3" length="41719077" type="audio/mpeg"/>
+      <guid isPermaLink="false">Chacun a le droit de se rapprocher d’Hachem.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 05:33:06 -0000</pubDate>
+      <itunes:duration>01:14:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
