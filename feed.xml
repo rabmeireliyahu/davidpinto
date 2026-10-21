@@ -1777,5 +1777,14 @@
       <itunes:duration>01:14:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Celui qui vit avec Hachem voit sa vie se transformer</title>
+      <description>Celui qui vit avec Hachem voit sa vie se transformer</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Celui%20qui%20vit%20avec%20Hachem%20voit%20sa%20vie%20se%20transformer.mp3" length="6463653" type="audio/mpeg"/>
+      <guid isPermaLink="false">Celui qui vit avec Hachem voit sa vie se transformer.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 05:34:35 -0000</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
