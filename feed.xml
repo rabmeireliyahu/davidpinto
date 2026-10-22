@@ -1795,5 +1795,14 @@
       <itunes:duration>00:06:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le Roi David et Machia'h</title>
+      <description>Le Roi David et Machia'h</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20Roi%20David%20et%20Machia%27h.mp3" length="56940501" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le Roi David et Machia'h.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:39:56 -0000</pubDate>
+      <itunes:duration>00:57:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
