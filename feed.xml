@@ -1822,5 +1822,14 @@
       <itunes:duration>00:57:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rahel Iménou avec son pouvoir d’ouvrir les portes du ciel</title>
+      <description>Rahel Iménou avec son pouvoir d’ouvrir les portes du ciel</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Rahel%20Im%C3%A9nou%20avec%20son%20pouvoir%20d%E2%80%99ouvrir%20les%20portes%20du%20ciel.mp3" length="40450845" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rahel Iménou avec son pouvoir d’ouvrir les portes du ciel.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 13:14:39 -0000</pubDate>
+      <itunes:duration>00:52:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
