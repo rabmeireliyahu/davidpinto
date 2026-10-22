@@ -1786,5 +1786,14 @@
       <itunes:duration>00:06:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Respecter les animaux</title>
+      <description>Respecter les animaux</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Respecter%20les%20animaux.mp3" length="5769837" type="audio/mpeg"/>
+      <guid isPermaLink="false">Respecter les animaux.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:39:13 -0000</pubDate>
+      <itunes:duration>00:06:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
