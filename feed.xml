@@ -1831,5 +1831,14 @@
       <itunes:duration>00:01:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>L’inconnu qui récitait les Téhilim</title>
+      <description>L’inconnu qui récitait les Téhilim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/L%E2%80%99inconnu%20qui%20r%C3%A9citait%20les%20T%C3%A9hilim.mp3" length="5452509" type="audio/mpeg"/>
+      <guid isPermaLink="false">L’inconnu qui récitait les Téhilim.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 22:42:36 -0000</pubDate>
+      <itunes:duration>00:07:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
