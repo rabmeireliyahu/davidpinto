@@ -1840,5 +1840,14 @@
       <itunes:duration>00:07:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Pourquoi Hachem a t Il choisi Avraham</title>
+      <description>Pourquoi Hachem a t Il choisi Avraham</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Pourquoi%20Hachem%20a%20t%20Il%20choisi%20Avraham.mp3" length="3461181" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pourquoi Hachem a t Il choisi Avraham.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 22:43:57 -0000</pubDate>
+      <itunes:duration>00:06:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
