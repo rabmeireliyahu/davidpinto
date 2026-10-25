@@ -1858,5 +1858,14 @@
       <itunes:duration>00:06:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La fillette aveugle qui retrouve la vue ｜ Rabbi Haim Pinto de Casablanca</title>
+      <description>La fillette aveugle qui retrouve la vue ｜ Rabbi Haim Pinto de Casablanca</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20fillette%20aveugle%20qui%20retrouve%20la%20vue%20%EF%BD%9C%20Rabbi%20Haim%20Pinto%20de%20Casablanca.mp3" length="5069133" type="audio/mpeg"/>
+      <guid isPermaLink="false">La fillette aveugle qui retrouve la vue ｜ Rabbi Haim Pinto de Casablanca.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 08:10:53 -0000</pubDate>
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
