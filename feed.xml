@@ -1867,5 +1867,14 @@
       <itunes:duration>00:06:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Des diplomates sur la tombe du Tsaddik</title>
+      <description>Des diplomates sur la tombe du Tsaddik</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Des%20diplomates%20sur%20la%20tombe%20du%20Tsaddik.mp3" length="5433165" type="audio/mpeg"/>
+      <guid isPermaLink="false">Des diplomates sur la tombe du Tsaddik.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 07:32:21 -0000</pubDate>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
