@@ -1894,5 +1894,14 @@
       <itunes:duration>00:52:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Tu as oublié, mais Hachem n’oublie pas</title>
+      <description>Tu as oublié, mais Hachem n’oublie pas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Tu%20as%20oubli%C3%A9%2C%20mais%20Hachem%20n%E2%80%99oublie%20pas.mp3" length="4581933" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tu as oublié, mais Hachem n’oublie pas.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 05:36:05 -0000</pubDate>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
