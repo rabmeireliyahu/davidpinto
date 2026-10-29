@@ -1921,5 +1921,14 @@
       <itunes:duration>00:38:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La puissance des Tsadikim par la parole</title>
+      <description>La puissance des Tsadikim par la parole</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20puissance%20des%20Tsadikim%20par%20la%20parole.mp3" length="32492229" type="audio/mpeg"/>
+      <guid isPermaLink="false">La puissance des Tsadikim par la parole.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 07:09:57 -0000</pubDate>
+      <itunes:duration>00:38:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
