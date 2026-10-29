@@ -1903,5 +1903,14 @@
       <itunes:duration>00:02:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Rabbénou Hakadoch, le veau et le chat</title>
+      <description>Rabbénou Hakadoch, le veau et le chat</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Rabb%C3%A9nou%20Hakadoch%2C%20le%20veau%20et%20le%20chat.mp3" length="6282645" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rabbénou Hakadoch, le veau et le chat.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 07:01:49 -0000</pubDate>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
