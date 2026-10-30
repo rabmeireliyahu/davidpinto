@@ -1939,5 +1939,14 @@
       <itunes:duration>00:06:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>« Le bonheur n’a pas besoin de spectateurs »</title>
+      <description>« Le bonheur n’a pas besoin de spectateurs »</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/%C2%AB%20Le%20bonheur%20n%E2%80%99a%20pas%20besoin%20de%20spectateurs%20%C2%BB.mp3" length="5000685" type="audio/mpeg"/>
+      <guid isPermaLink="false">« Le bonheur n’a pas besoin de spectateurs ».mp3</guid>
+      <pubDate>Fri, 30 Oct 2026 08:04:13 -0000</pubDate>
+      <itunes:duration>00:06:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
