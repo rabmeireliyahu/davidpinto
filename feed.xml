@@ -1948,5 +1948,14 @@
       <itunes:duration>00:06:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Où se trouve le Machia’h ？</title>
+      <description>Où se trouve le Machia’h ？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/O%C3%B9%20se%20trouve%20le%20Machia%E2%80%99h%20%EF%BC%9F.mp3" length="4982757" type="audio/mpeg"/>
+      <guid isPermaLink="false">Où se trouve le Machia’h ？.mp3</guid>
+      <pubDate>Sun, 01 Nov 2026 05:38:23 -0000</pubDate>
+      <itunes:duration>00:06:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
