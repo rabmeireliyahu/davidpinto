@@ -1957,5 +1957,14 @@
       <itunes:duration>00:06:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Une Ségoula pour annuler les mauvais décrets</title>
+      <description>Une Ségoula pour annuler les mauvais décrets</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Une%20S%C3%A9goula%20pour%20annuler%20les%20mauvais%20d%C3%A9crets.mp3" length="3660597" type="audio/mpeg"/>
+      <guid isPermaLink="false">Une Ségoula pour annuler les mauvais décrets.mp3</guid>
+      <pubDate>Mon, 02 Nov 2026 05:14:44 -0000</pubDate>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
