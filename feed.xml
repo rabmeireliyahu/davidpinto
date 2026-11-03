@@ -1966,5 +1966,14 @@
       <itunes:duration>00:06:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Les portraits des Tsaddikim</title>
+      <description>Les portraits des Tsaddikim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Les%20portraits%20des%20Tsaddikim.mp3" length="3217346" type="audio/mpeg"/>
+      <guid isPermaLink="false">Les portraits des Tsaddikim.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 05:12:23 -0000</pubDate>
+      <itunes:duration>00:04:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
