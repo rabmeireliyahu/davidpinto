@@ -1975,5 +1975,14 @@
       <itunes:duration>00:04:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ne pas condamner les fenêtres existantes</title>
+      <description>Ne pas condamner les fenêtres existantes</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Ne%20pas%20condamner%20les%20fen%C3%AAtres%20existantes.mp3" length="4366821" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ne pas condamner les fenêtres existantes.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 05:39:28 -0000</pubDate>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
