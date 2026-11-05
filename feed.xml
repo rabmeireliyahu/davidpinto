@@ -1984,5 +1984,14 @@
       <itunes:duration>00:05:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>L’espoir des parents, c’est de marier leurs enfants</title>
+      <description>L’espoir des parents, c’est de marier leurs enfants</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/L%E2%80%99espoir%20des%20parents%2C%20c%E2%80%99est%20de%20marier%20leurs%20enfants.mp3" length="16451517" type="audio/mpeg"/>
+      <guid isPermaLink="false">L’espoir des parents, c’est de marier leurs enfants.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 20:17:23 -0000</pubDate>
+      <itunes:duration>00:39:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
