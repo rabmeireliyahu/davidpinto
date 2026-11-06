@@ -2012,12 +2012,12 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>C’est avec notre argent !</title>
-      <description>C’est avec notre argent !</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/C%E2%80%99est%20avec%20notre%20argent%20%21.mp3" length="6487581" type="audio/mpeg"/>
-      <guid isPermaLink="false">C’est avec notre argent !.mp3</guid>
-      <pubDate>Fri, 06 Nov 2026 06:18:53 -0000</pubDate>
-      <itunes:duration>00:07:43</itunes:duration>
+      <title>La promesse d'Eliézer</title>
+      <description>La promesse d'Eliézer</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20promesse%20d%27Eli%C3%A9zer.mp3" length="4124781" type="audio/mpeg"/>
+      <guid isPermaLink="false">La promesse d'Eliézer.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 06:19:20 -0000</pubDate>
+      <itunes:duration>00:05:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
