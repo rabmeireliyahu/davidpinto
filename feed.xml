@@ -2011,5 +2011,14 @@
       <itunes:duration>00:39:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>C’est avec notre argent !</title>
+      <description>C’est avec notre argent !</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/C%E2%80%99est%20avec%20notre%20argent%20%21.mp3" length="6487581" type="audio/mpeg"/>
+      <guid isPermaLink="false">C’est avec notre argent !.mp3</guid>
+      <pubDate>Fri, 06 Nov 2026 06:18:53 -0000</pubDate>
+      <itunes:duration>00:07:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
