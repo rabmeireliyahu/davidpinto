@@ -2020,5 +2020,14 @@
       <itunes:duration>00:05:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ce n’est pas la richesse, mais le bonheur</title>
+      <description>Ce n’est pas la richesse, mais le bonheur</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Ce%20n%E2%80%99est%20pas%20la%20richesse%2C%20mais%20le%20bonheur.mp3" length="6026541" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ce n’est pas la richesse, mais le bonheur.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 12:43:06 -0000</pubDate>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
