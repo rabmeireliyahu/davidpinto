@@ -2038,5 +2038,14 @@
       <itunes:duration>00:07:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Sois positif !</title>
+      <description>Sois positif !</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Sois%20positif%20%21.mp3" length="4872513" type="audio/mpeg"/>
+      <guid isPermaLink="false">Sois positif !.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 05:12:33 -0000</pubDate>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
