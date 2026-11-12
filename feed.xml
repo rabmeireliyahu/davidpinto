@@ -2092,5 +2092,14 @@
       <itunes:duration>00:07:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Yaacov et Essav; Deux chemins, deux destins</title>
+      <description>Yaacov et Essav; Deux chemins, deux destins</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Yaacov%20et%20Essav%3B%20Deux%20chemins%2C%20deux%20destins.mp3" length="39844005" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yaacov et Essav; Deux chemins, deux destins.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:32:51 -0000</pubDate>
+      <itunes:duration>00:47:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
