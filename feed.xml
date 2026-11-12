@@ -2083,5 +2083,14 @@
       <itunes:duration>00:47:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ne pas avoir honte d'un Chidoukh</title>
+      <description>Ne pas avoir honte d'un Chidoukh</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Ne%20pas%20avoir%20honte%20d%27un%20Chidoukh.mp3" length="6720861" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ne pas avoir honte d'un Chidoukh.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 05:32:10 -0000</pubDate>
+      <itunes:duration>00:07:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
