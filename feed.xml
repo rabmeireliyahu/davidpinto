@@ -2110,5 +2110,14 @@
       <itunes:duration>00:06:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Un père doit aimer son fils inconditionnellement</title>
+      <description>Un père doit aimer son fils inconditionnellement</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Un%20p%C3%A8re%20doit%20aimer%20son%20fils%20inconditionnellement.mp3" length="4385445" type="audio/mpeg"/>
+      <guid isPermaLink="false">Un père doit aimer son fils inconditionnellement.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 06:43:19 -0000</pubDate>
+      <itunes:duration>00:05:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
