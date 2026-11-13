@@ -2101,5 +2101,14 @@
       <itunes:duration>00:47:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le visage qui m'a fait peur</title>
+      <description>Le visage qui m'a fait peur</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20visage%20qui%20m%27a%20fait%20peur.mp3" length="5229237" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le visage qui m'a fait peur.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 06:42:49 -0000</pubDate>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
