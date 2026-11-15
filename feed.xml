@@ -2128,5 +2128,14 @@
       <itunes:duration>00:11:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Accomplir les mitsvot avec amour</title>
+      <description>Accomplir les mitsvot avec amour</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Accomplir%20les%20mitsvot%20avec%20amour.mp3" length="8901439" type="audio/mpeg"/>
+      <guid isPermaLink="false">Accomplir les mitsvot avec amour.mp3</guid>
+      <pubDate>Sun, 15 Nov 2026 05:59:56 -0000</pubDate>
+      <itunes:duration>00:11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
