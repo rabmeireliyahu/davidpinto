@@ -2146,5 +2146,14 @@
       <itunes:duration>00:07:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Les Téfilines, bouclier spirituel</title>
+      <description>Les Téfilines, bouclier spirituel</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Les%20T%C3%A9filines%2C%20bouclier%20spirituel.mp3" length="3452853" type="audio/mpeg"/>
+      <guid isPermaLink="false">Les Téfilines, bouclier spirituel.mp3</guid>
+      <pubDate>Sun, 15 Nov 2026 07:28:08 -0000</pubDate>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
