@@ -2164,5 +2164,14 @@
       <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Comment j’ai fêté ma bar-mitsva ｜ Rabbi David Hanania Pinto</title>
+      <description>Comment j’ai fêté ma bar-mitsva ｜ Rabbi David Hanania Pinto</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Comment%20j%E2%80%99ai%20f%C3%AAt%C3%A9%20ma%20bar-mitsva%20%EF%BD%9C%20Rabbi%20David%20Hanania%20Pinto.mp3" length="5214597" type="audio/mpeg"/>
+      <guid isPermaLink="false">Comment j’ai fêté ma bar-mitsva ｜ Rabbi David Hanania Pinto.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 07:13:51 -0000</pubDate>
+      <itunes:duration>00:06:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
