@@ -2155,5 +2155,14 @@
       <itunes:duration>00:04:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Les Téfilines oubliés</title>
+      <description>Les Téfilines oubliés</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Les%20T%C3%A9filines%20oubli%C3%A9s.mp3" length="4371021" type="audio/mpeg"/>
+      <guid isPermaLink="false">Les Téfilines oubliés.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 07:13:18 -0000</pubDate>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
