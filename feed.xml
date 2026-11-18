@@ -2191,5 +2191,14 @@
       <itunes:duration>00:04:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La lumière du mérite des Tsaddikim</title>
+      <description>La lumière du mérite des Tsaddikim</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20lumi%C3%A8re%20du%20m%C3%A9rite%20des%20Tsaddikim.mp3" length="3947445" type="audio/mpeg"/>
+      <guid isPermaLink="false">La lumière du mérite des Tsaddikim.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 05:34:20 -0000</pubDate>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
