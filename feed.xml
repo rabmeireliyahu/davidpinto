@@ -2209,5 +2209,14 @@
       <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Yaacov Avinou, trace le chemin pour les générations à venir</title>
+      <description>Yaacov Avinou, trace le chemin pour les générations à venir</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Yaacov%20Avinou%2C%20trace%20le%20chemin%20pour%20les%20g%C3%A9n%C3%A9rations%20%C3%A0%20venir.mp3" length="24574509" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yaacov Avinou, trace le chemin pour les générations à venir.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 11:00:14 -0000</pubDate>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
