@@ -2245,5 +2245,14 @@
       <itunes:duration>00:34:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Pourquoi Yaakov voulait il le droit d’aînesse</title>
+      <description>Pourquoi Yaakov voulait il le droit d’aînesse</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Pourquoi%20Yaakov%20voulait%20il%20le%20droit%20d%E2%80%99a%C3%AEnesse.mp3" length="6665275" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pourquoi Yaakov voulait il le droit d’aînesse.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 19:36:22 -0000</pubDate>
+      <itunes:duration>00:07:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
