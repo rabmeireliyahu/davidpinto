@@ -2281,5 +2281,14 @@
       <itunes:duration>00:04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le passeport et l’argent perdus ｜ Rabbi David Hanania Pinto</title>
+      <description>Le passeport et l’argent perdus ｜ Rabbi David Hanania Pinto</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20passeport%20et%20l%E2%80%99argent%20perdus%20%EF%BD%9C%20Rabbi%20David%20Hanania%20Pinto.mp3" length="4638229" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le passeport et l’argent perdus ｜ Rabbi David Hanania Pinto.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 03:31:24 -0000</pubDate>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
