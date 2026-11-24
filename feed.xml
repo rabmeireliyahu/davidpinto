@@ -2227,5 +2227,14 @@
       <itunes:duration>00:05:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La cigarette miraculeuse</title>
+      <description>La cigarette miraculeuse</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20cigarette%20miraculeuse.mp3" length="3400796" type="audio/mpeg"/>
+      <guid isPermaLink="false">La cigarette miraculeuse.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 19:30:01 -0000</pubDate>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
