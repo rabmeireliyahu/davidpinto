@@ -2272,5 +2272,14 @@
       <itunes:duration>00:05:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Celui qui prie pour son prochain est exaucé en premier</title>
+      <description>Celui qui prie pour son prochain est exaucé en premier</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Celui%20qui%20prie%20pour%20son%20prochain%20est%20exauc%C3%A9%20en%20premier.mp3" length="2452342" type="audio/mpeg"/>
+      <guid isPermaLink="false">Celui qui prie pour son prochain est exaucé en premier.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 03:26:35 -0000</pubDate>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
