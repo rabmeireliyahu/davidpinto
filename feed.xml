@@ -2299,5 +2299,14 @@
       <itunes:duration>00:48:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Garder sa Emouna dans l'épreuve</title>
+      <description>Garder sa Emouna dans l'épreuve</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Garder%20sa%20Emouna%20dans%20l%27%C3%A9preuve.mp3" length="27571317" type="audio/mpeg"/>
+      <guid isPermaLink="false">Garder sa Emouna dans l'épreuve.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 11:33:30 -0000</pubDate>
+      <itunes:duration>00:49:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
