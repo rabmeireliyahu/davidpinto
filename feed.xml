@@ -2218,5 +2218,14 @@
       <itunes:duration>00:23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Le passeport et l’argent perdus</title>
+      <description>Le passeport et l’argent perdus</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Le%20passeport%20et%20l%E2%80%99argent%20perdus.mp3" length="4638229" type="audio/mpeg"/>
+      <guid isPermaLink="false">Le passeport et l’argent perdus.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 19:29:35 -0000</pubDate>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
