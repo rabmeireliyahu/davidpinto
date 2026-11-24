@@ -2236,5 +2236,14 @@
       <itunes:duration>00:04:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ressentir sa responsabilité dans tous les domaines</title>
+      <description>Ressentir sa responsabilité dans tous les domaines</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Ressentir%20sa%20responsabilit%C3%A9%20dans%20tous%20les%20domaines.mp3" length="20087099" type="audio/mpeg"/>
+      <guid isPermaLink="false">Ressentir sa responsabilité dans tous les domaines.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 19:34:30 -0000</pubDate>
+      <itunes:duration>00:34:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
