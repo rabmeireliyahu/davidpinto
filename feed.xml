@@ -2317,5 +2317,14 @@
       <itunes:duration>00:05:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La cigarette miraculeuse ｜ Rabbi David Hanania Pinto</title>
+      <description>La cigarette miraculeuse ｜ Rabbi David Hanania Pinto</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20cigarette%20miraculeuse%20%EF%BD%9C%20Rabbi%20David%20Hanania%20Pinto.mp3" length="3400796" type="audio/mpeg"/>
+      <guid isPermaLink="false">La cigarette miraculeuse ｜ Rabbi David Hanania Pinto.mp3</guid>
+      <pubDate>Wed, 25 Nov 2026 03:32:19 -0000</pubDate>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
