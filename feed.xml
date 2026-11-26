@@ -2335,5 +2335,14 @@
       <itunes:duration>00:04:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>La foi au cœur des dernières épreuves avant la délivrance</title>
+      <description>La foi au cœur des dernières épreuves avant la délivrance</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/La%20foi%20au%20c%C5%93ur%20des%20derni%C3%A8res%20%C3%A9preuves%20avant%20la%20d%C3%A9livrance.mp3" length="32958308" type="audio/mpeg"/>
+      <guid isPermaLink="false">La foi au cœur des dernières épreuves avant la délivrance.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 11:35:24 -0000</pubDate>
+      <itunes:duration>00:51:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
