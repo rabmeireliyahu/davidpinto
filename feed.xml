@@ -2326,5 +2326,14 @@
       <itunes:duration>00:03:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Il veut gagner au Loto</title>
+      <description>Il veut gagner au Loto</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Il%20veut%20gagner%20au%20Loto.mp3" length="2697452" type="audio/mpeg"/>
+      <guid isPermaLink="false">Il veut gagner au Loto.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 03:27:27 -0000</pubDate>
+      <itunes:duration>00:04:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
