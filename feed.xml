@@ -2344,5 +2344,14 @@
       <itunes:duration>00:51:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Certains rêves deviennent réalité</title>
+      <description>Certains rêves deviennent réalité</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-david-pinto-shiurim/Certains%20r%C3%AAves%20deviennent%20r%C3%A9alit%C3%A9.mp3" length="4252316" type="audio/mpeg"/>
+      <guid isPermaLink="false">Certains rêves deviennent réalité.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 03:34:43 -0000</pubDate>
+      <itunes:duration>00:06:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
